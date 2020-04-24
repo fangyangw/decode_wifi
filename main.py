@@ -5,8 +5,8 @@ import gzip
 
 passwd_file = r"jikefeng.txt.gz"
 db_file = "scan.db"
-max_times = 2
-each_times = 2
+max_times = 40
+each_times = 50
 need_signal = -80
 
 
